@@ -117,7 +117,7 @@ Further analyses could yield additional insights for Microsoft's Movie Studios. 
 ├── Data
 ├── Images
 ├── zippedData
-├── GR4_README.md
+├── README.md
 ├── final-data.csv
 ├── project.ipynb
 └── slides.pdf
